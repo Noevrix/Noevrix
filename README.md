@@ -92,3 +92,4 @@ Local-first，不宣传完全离线。聊天、文件、索引、CSV 和本机�
 https://github.com/Noevrix/Noevrix
 
 沿用现有 v0.9.0-beta 发布记录；历史标签不重写。
+本轮测试时间为UTC+8 2026/9/15-2026/9/19
