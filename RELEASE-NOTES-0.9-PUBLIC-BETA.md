@@ -1,4 +1,4 @@
-# Axiom 0.9 Public Beta
+# Noevrix 0.9 Public Beta
 
 ## Highlights
 
@@ -25,7 +25,7 @@ Brave/Bing 搜索引擎查询、实验行情、联网研报下载、Trainer 和 
 
 ## Model Information
 
-语言模型通过本机 Ollama 使用 Qwen2.5 7B，Axiom 是产品身份与应用行为，不是从零预训练模型。安装包不含 Ollama、LLM 权重或 Adapter，仅附既有小型本地检索模型。已有生产模型无需重新训练或下载。
+语言模型通过本机 Ollama 使用 Qwen2.5 7B，Noevrix 是产品身份与应用行为，不是从零预训练模型。安装包不含 Ollama、LLM 权重或 Adapter，仅附既有小型本地检索模型。已有生产模型无需重新训练或下载。
 
 ## Feedback
 

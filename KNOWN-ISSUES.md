@@ -1,4 +1,4 @@
-# Known Issues — Axiom 0.9 Public Beta
+# Known Issues — Noevrix 0.9 Public Beta
 
 - Clean-machine validation pending — SKIPPED BY USER，本轮未运行纯净 Windows 或模拟干净环境。
 - Unsigned Beta Build：可能出现 SmartScreen / 未知发布者提示，未伪造签名。

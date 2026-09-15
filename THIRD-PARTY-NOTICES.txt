@@ -1,6 +1,6 @@
-AXIOM 0.9 PUBLIC BETA — THIRD-PARTY NOTICES
+NOEVRIX 0.9 PUBLIC BETA — THIRD-PARTY NOTICES
 
-Third-party rights are preserved independently of Axiom own-code terms.
+Third-party rights are preserved independently of Noevrix own-code terms.
 All license texts and notices referenced below accompany this application in licenses/.
 No third-party package sources were modified; freezing changes packaging, not license rights.
 Qwen2.5-7B-Instruct (Alibaba Cloud): Apache-2.0; external Ollama model, no LLM weights bundled.

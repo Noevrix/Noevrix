@@ -4,7 +4,7 @@
 
 | Feature | Status |
 |---|---|
-| 本地聊天 | 可用，需要独立 Ollama 与 Axiom:latest |
+| 本地聊天 | 可用，需要独立 Ollama 与 Noevrix:latest |
 | 深度思考 | 可用，分析/复核流程，不是新训练模型 |
 | Brave/Bing 搜索 | Public Build Disabled，来源商业条款待确认 |
 | 用户指定的公开网页阅读 | 可用，需用户主动开启联网并提供链接 |
