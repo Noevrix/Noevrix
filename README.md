@@ -9,6 +9,14 @@
 A local-first AI assistant for thinking, research and data.
 面向思考、研究与数据工作的本地优先 AI 助手。
 
+## Repository Notice
+
+Noevrix is a proprietary, closed-source application. This public repository is the official hub for distribution, documentation, releases, issues and feedback; the proprietary application source code is not published here. Third-party components, models and libraries retain their original licenses. See [LICENSE](LICENSE) and [Third-party notices](THIRD-PARTY-NOTICES.txt).
+
+## 仓库说明
+
+Noevrix 是专有、闭源应用。本公开仓库用于官方分发、文档、版本发布、问题跟踪与反馈，不公开专有应用源代码。第三方组件、模型和库仍遵循各自的原始许可，详见 [LICENSE](LICENSE) 和[第三方声明](THIRD-PARTY-NOTICES.txt)。
+
 ## What is Noevrix
 
 Noevrix 支持 AI 聊天、深度思考、本地文件阅读、研究与数据分析。AI 回答可能不准确，重要信息请核验原文。本版为 Beta，并非稳定版；Clean Windows validation has not yet been completed。
