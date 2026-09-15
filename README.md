@@ -86,12 +86,9 @@ Local-first，不宣传完全离线。聊天、文件、索引、CSV 和本机�
 - 配置损坏：原文件备份后恢复默认配置，聊天和资料不会因此清空。
 - 查看日志：Win+R 输入 %LOCALAPPDATA%\Noevrix\logs；关于页可导出经过筛选的 diagnostics。请检查导出内容后，自行向发布者反馈，程序不会自动发送。反馈使用实际下载页面提供的渠道。
 
-## 从旧版升级
-
-Noevrix 优先使用 `%LOCALAPPDATA%\Noevrix`；新目录不存在而旧 `%LOCALAPPDATA%\Axiom` 存在时，继续读取旧目录，不删除或复制原聊天和文件。旧目录名称属于兼容约定。环境变量优先 `NOEVRIX_USER_DATA`，并兼容 `AXIOM_USER_DATA`。
 
 ## Repository
 
 https://github.com/Noevrix/Noevrix
 
-本次为品牌迁移，沿用现有 v0.9.0-beta 发布记录；历史标签不重写。
+沿用现有 v0.9.0-beta 发布记录；历史标签不重写。
