@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/Noevrix/Noevrix/main/assets/noevrix.svg" width="80" alt="Noevrix" />
 
 **A local-first AI assistant for thinking, research and data.**
-**面向思考、研究与数据工作的本地优先 AI 助手。**
 
 Current version: **Noevrix 1.1 Beta — Data Intelligence & Quant Research** (Windows x64, pre-release).
 
