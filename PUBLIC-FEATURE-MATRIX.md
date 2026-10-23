@@ -1,3 +1,9 @@
+# Noevrix 1.1 Beta
+
+本 Beta 版本新增 Data Intelligence & Quant Research。请先阅读 [1.1 功能与使用说明](NOEVRIX-1.1-FEATURES.md) 和 [1.1 更新说明](RELEASE-NOTES-1.1-BETA.md)。下方保留 0.9 基础功能及兼容说明；历史验收数字不代表本轮结果。当前仍非 Stable，尚无干净 Windows 认证。
+
+---
+
 # Public feature matrix — 0.9 Public Beta
 
 “可用”表示已在开发机安装包验收范围内支持，不代表纯净 Windows 已通过兼容性验收。

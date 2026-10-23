@@ -1,4 +1,4 @@
-# Noevrix 0.9 Public Beta 软件许可协议
+# Noevrix 1.1 Beta 软件许可协议
 
 版本日期：2026-09-14。Noevrix 是面向思考、研究与数据工作的本地优先 AI 助手。请在使用前阅读本协议、PRIVACY.md、FINANCIAL-DISCLAIMER.md 和第三方许可。不同意本协议时，请勿安装或使用 Noevrix 自有软件部分。
 

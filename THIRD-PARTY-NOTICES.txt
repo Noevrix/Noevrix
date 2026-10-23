@@ -1,4 +1,4 @@
-NOEVRIX 0.9 PUBLIC BETA — THIRD-PARTY NOTICES
+NOEVRIX 1.1 BETA — THIRD-PARTY NOTICES
 
 Third-party rights are preserved independently of Noevrix own-code terms.
 All license texts and notices referenced below accompany this application in licenses/.
@@ -11,7 +11,7 @@ https://huggingface.co/BAAI/bge-small-zh-v1.5 ; licenses/upstream/BGE-MIT-LICENS
 PyInstaller 6.22.2 bootloader: GPL with application exception. licenses/upstream/PyInstaller-COPYING.txt
 NSIS 3.12 installer: zlib/libpng core and included component terms. licenses/upstream/NSIS-COPYING.txt
 System .NET/WPF, Windows fonts and curl: not redistributed. Provided by Windows.
-PyMuPDF/MuPDF: NOT included in this candidate. Retained only in developer environment.
+PyMuPDF/MuPDF: NOT included in this release. Retained only in developer environment.
 MPL-covered source archives accompany the app under licenses/upstream/sources. These sources retain MPL and their other original licenses.
 PDFium and its dependencies: see pypdfium2 BUILD_LICENSES below, including FreeType/ICU/LCMS/libjpeg/libpng/zlib notices.
 
@@ -2007,9 +2007,9 @@ Copyright (c) 2001-2002 Enthought, Inc. 2003, SciPy Developers.
          notice, this list of conditions and the following disclaimer in
          the documentation and/or other materials provided with the
          distribution.
-      3. Neither the name of the OpenBLAS project nor the names of 
-         its contributors may be used to endorse or promote products 
-         derived from this software without specific prior written 
+      3. Neither the name of the OpenBLAS project nor the names of
+         its contributors may be used to endorse or promote products
+         derived from this software without specific prior written
          permission.
 
    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
